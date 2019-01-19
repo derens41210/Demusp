@@ -2,7 +2,7 @@
  
 <item>
 <title>Alfabetico</title>
-<thumbnail>https://i1.wp.com/www.generacionfriki.es/wp-content/uploads/2014/04/Porco-Rosso-Anime-Generacion-Friki-Texto-1.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/derens41210/demusp/master/source/alfabetico.png</thumbnail>
 <fanart>http://www.mhnv.cl/636/articles-55637_imagen_portada.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/derens41210/demusp/master/anime-menu/alfabetico.xml</externallink>
@@ -10,7 +10,7 @@
  
 <item>
 <title>Por año</title>
-<thumbnail>https://i1.wp.com/www.generacionfriki.es/wp-content/uploads/2014/04/Porco-Rosso-Anime-Generacion-Friki-Texto-1.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/derens41210/demusp/master/source/ano.png</thumbnail>
 <fanart>http://www.mhnv.cl/636/articles-55637_imagen_portada.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/derens41210/demusp/master/anime-menu/ano/index.xml</externallink>
@@ -18,7 +18,7 @@
 
 <item>
 <title>Temas</title>
-<thumbnail>https://i1.wp.com/www.generacionfriki.es/wp-content/uploads/2014/04/Porco-Rosso-Anime-Generacion-Friki-Texto-1.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/derens41210/demusp/master/source/temas.png</thumbnail>
 <fanart>http://www.mhnv.cl/636/articles-55637_imagen_portada.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/derens41210/demusp/master/anime-menu/tema/index.xml</externallink>
