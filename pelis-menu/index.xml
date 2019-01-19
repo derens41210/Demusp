@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>Alfabetico</title>
+<thumbnail>https://raw.githubusercontent.com/derens41210/demusp/master/source/alfabetico.png</thumbnail>
+<fanart>http://www.mhnv.cl/636/articles-55637_imagen_portada.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/derens41210/demusp/master/pelis-menu/alfabetico.xml</externallink>
+</item>
+ 
+<item>
+<title>Por año</title>
+<thumbnail>https://raw.githubusercontent.com/derens41210/demusp/master/source/ano.png</thumbnail>
+<fanart>http://www.mhnv.cl/636/articles-55637_imagen_portada.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/derens41210/demusp/master/pelis-menu/ano/index.xml</externallink>
+</item>
+
+<item>
+<title>Temas</title>
+<thumbnail>https://raw.githubusercontent.com/derens41210/demusp/master/source/temas.png</thumbnail>
+<fanart>http://www.mhnv.cl/636/articles-55637_imagen_portada.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/derens41210/demusp/master/pelis-menu/tema/index.xml</externallink>
+</item>
