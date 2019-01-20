@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  
+<item>
+<title>1989</title>
+<thumbnail></thumbnail>
+<fanart>http://www.mhnv.cl/636/articles-55637_imagen_portada.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/derens41210/demusp/master/pelis-menu/ano/1989.xml</externallink>
+</item>
  
 <item>
 <title>1994</title>
@@ -62,4 +70,12 @@
 <fanart>http://www.mhnv.cl/636/articles-55637_imagen_portada.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/derens41210/demusp/master/pelis-menu/ano/2011.xml</externallink>
+</item>
+
+<item>
+<title>2013</title>
+<thumbnail></thumbnail>
+<fanart>http://www.mhnv.cl/636/articles-55637_imagen_portada.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/derens41210/demusp/master/pelis-menu/ano/2013.xml</externallink>
 </item>
