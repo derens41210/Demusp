@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
+ <item>
+<title>Beatless</title>
+<thumbnail>https://myanimelist.cdn-dena.com/images/anime/1986/90184l.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-5BKfpa2Cc8o/W24oRql9gvI/AAAAAAAAqRc/405Ruxo-UL8P790sqLEoPCrx124wTZW7ACLcBGAs/s1600/Beatless.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/derens41210/demusp/master/anime-menu/series/beatless/index.xml</externallink>
+</item>
+ 
 <item>
 <title>Isekai wa Smartphone to Tomo ni</title>
-<thumbnail>https://nyananime.net/img/animes/poster/isekai-wa-smartphone-to-tomo-ni.jpg</thumbnail>
-<fanart>http://gitlab.demusp.tk/root/demusp/raw/master/repor/plugin.video.demusp/fanart.jpg</fanart>
+<thumbnail>https://estaciongeek.mx/wp-content/uploads/2017/05/Isekai-wa-Smartphone-to-Tomo-ni-1.jpg</thumbnail>
+<fanart>http://ramenparados.com/wp-content/uploads/2017/03/Isekai-wa-Smartphone-to-Tomo-ni-novel-1000x600-1490084629-1.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/derens41210/demusp/master/anime-menu/series/iwsttn/index.xml?token=AsPSIPnTjRakRZ8nKcNewq_VO21Fb3rTks5cQhqTwA%3D%3D</externallink>
 </item>
