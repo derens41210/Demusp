@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>Chobits</title>
+<thumbnail>https://raw.githubusercontent.com/derens41210/demusp/master/anime-menu/resources/portadas/chobits.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/derens41210/demusp/master/anime-menu/resources/fondo/chobits.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/derens41210/demusp/master/anime-menu/series/chobits/index.xml</externallink>
+</item>
+
+<item>
 <title>Sailor Moon</title>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51rQQISM3yL._SX331_BO1,204,203,200_.jpg</thumbnail>
 <fanart>https://media.metrolatam.com/2018/07/11/sailormoontitle-88ccc86664b0157fbca09b311a7aefc2-1200x800.jpg</fanart>
